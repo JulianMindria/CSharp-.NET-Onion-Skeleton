@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "yluzw+R8MDp2EGs8wFO63muH/3IGNYvoCCO48C7e/Xc=",
+  "Source": "CatalogAPI.Presentation",
+  "BasePath": "_content/CatalogAPI.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CatalogAPI.Presentation\\wwwroot",
+      "Source": "CatalogAPI.Presentation",
+      "ContentRoot": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\wwwroot\\",
+      "BasePath": "_content/CatalogAPI.Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\wwwroot\\images\\0cc9e2b3-a290-4bd7-86a3-cbae34f81445.jpeg",
+      "SourceId": "CatalogAPI.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\wwwroot\\",
+      "BasePath": "_content/CatalogAPI.Presentation",
+      "RelativePath": "images/0cc9e2b3-a290-4bd7-86a3-cbae34f81445.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0cc9e2b3-a290-4bd7-86a3-cbae34f81445.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\wwwroot\\images\\3c44b7af-9139-4fd4-aa79-180e0218fd7c.png",
+      "SourceId": "CatalogAPI.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\wwwroot\\",
+      "BasePath": "_content/CatalogAPI.Presentation",
+      "RelativePath": "images/3c44b7af-9139-4fd4-aa79-180e0218fd7c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3c44b7af-9139-4fd4-aa79-180e0218fd7c.png"
+    }
+  ]
+}

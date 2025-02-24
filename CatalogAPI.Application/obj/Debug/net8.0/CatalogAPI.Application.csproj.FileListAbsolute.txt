@@ -1,0 +1,17 @@
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\bin\Debug\net8.0\CatalogAPI.Application.deps.json
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\bin\Debug\net8.0\CatalogAPI.Application.dll
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\bin\Debug\net8.0\CatalogAPI.Application.pdb
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\bin\Debug\net8.0\CatalogAPI.Domain.dll
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\bin\Debug\net8.0\CatalogAPI.Shared.dll
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\bin\Debug\net8.0\CatalogAPI.Domain.pdb
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\bin\Debug\net8.0\CatalogAPI.Shared.pdb
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\CatalogAPI.Application.csproj.AssemblyReference.cache
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\CatalogAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\CatalogAPI.Application.AssemblyInfoInputs.cache
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\CatalogAPI.Application.AssemblyInfo.cs
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\CatalogAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\CatalogA.7B2F9EAA.Up2Date
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\CatalogAPI.Application.dll
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\refint\CatalogAPI.Application.dll
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\CatalogAPI.Application.pdb
+C:\Users\mindr\source\repos\CatalogAPI\CatalogAPI.Application\obj\Debug\net8.0\ref\CatalogAPI.Application.dll

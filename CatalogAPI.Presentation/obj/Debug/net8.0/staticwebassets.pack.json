@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\wwwroot\\images\\0cc9e2b3-a290-4bd7-86a3-cbae34f81445.jpeg",
+      "PackagePath": "staticwebassets\\images\\0cc9e2b3-a290-4bd7-86a3-cbae34f81445.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\wwwroot\\images\\3c44b7af-9139-4fd4-aa79-180e0218fd7c.png",
+      "PackagePath": "staticwebassets\\images\\3c44b7af-9139-4fd4-aa79-180e0218fd7c.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CatalogAPI.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CatalogAPI.Presentation.props",
+      "PackagePath": "build\\CatalogAPI.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CatalogAPI.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\CatalogAPI.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CatalogAPI.Presentation.props",
+      "PackagePath": "buildTransitive\\CatalogAPI.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

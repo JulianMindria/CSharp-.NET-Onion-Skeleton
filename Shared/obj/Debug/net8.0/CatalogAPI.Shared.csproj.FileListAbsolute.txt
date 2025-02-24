@@ -1,0 +1,11 @@
+C:\Users\mindr\source\repos\CatalogAPI\Shared\bin\Debug\net8.0\CatalogAPI.Shared.deps.json
+C:\Users\mindr\source\repos\CatalogAPI\Shared\bin\Debug\net8.0\CatalogAPI.Shared.dll
+C:\Users\mindr\source\repos\CatalogAPI\Shared\bin\Debug\net8.0\CatalogAPI.Shared.pdb
+C:\Users\mindr\source\repos\CatalogAPI\Shared\obj\Debug\net8.0\CatalogAPI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindr\source\repos\CatalogAPI\Shared\obj\Debug\net8.0\CatalogAPI.Shared.AssemblyInfoInputs.cache
+C:\Users\mindr\source\repos\CatalogAPI\Shared\obj\Debug\net8.0\CatalogAPI.Shared.AssemblyInfo.cs
+C:\Users\mindr\source\repos\CatalogAPI\Shared\obj\Debug\net8.0\CatalogAPI.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mindr\source\repos\CatalogAPI\Shared\obj\Debug\net8.0\CatalogAPI.Shared.dll
+C:\Users\mindr\source\repos\CatalogAPI\Shared\obj\Debug\net8.0\refint\CatalogAPI.Shared.dll
+C:\Users\mindr\source\repos\CatalogAPI\Shared\obj\Debug\net8.0\CatalogAPI.Shared.pdb
+C:\Users\mindr\source\repos\CatalogAPI\Shared\obj\Debug\net8.0\ref\CatalogAPI.Shared.dll

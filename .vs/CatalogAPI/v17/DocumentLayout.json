@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\queries\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\queries\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\queries\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\queries\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F5274C-BB83-469F-ADB4-FE7A80CFBD9A}|CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F5274C-BB83-469F-ADB4-FE7A80CFBD9A}|CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj|solutionrelative:catalogapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AD0CA7-A8E0-461F-BBEA-BBAD49B5481D}|Shared\\CatalogAPI.Shared.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AD0CA7-A8E0-461F-BBEA-BBAD49B5481D}|Shared\\CatalogAPI.Shared.csproj|solutionrelative:shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AD0CA7-A8E0-461F-BBEA-BBAD49B5481D}|Shared\\CatalogAPI.Shared.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AD0CA7-A8E0-461F-BBEA-BBAD49B5481D}|Shared\\CatalogAPI.Shared.csproj|solutionrelative:shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.infrastructure\\catalogapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|solutionrelative:catalogapi.infrastructure\\catalogapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.infrastructure\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|solutionrelative:catalogapi.infrastructure\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F5274C-BB83-469F-ADB4-FE7A80CFBD9A}|CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F5274C-BB83-469F-ADB4-FE7A80CFBD9A}|CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj|solutionrelative:catalogapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\commands\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\commands\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164D2C31-E49C-485C-BB54-9191FB455169}|Domain\\CatalogAPI.Domain.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164D2C31-E49C-485C-BB54-9191FB455169}|Domain\\CatalogAPI.Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|solutionrelative:catalogapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164D2C31-E49C-485C-BB54-9191FB455169}|Domain\\CatalogAPI.Domain.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\domain\\repositories\\productrepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164D2C31-E49C-485C-BB54-9191FB455169}|Domain\\CatalogAPI.Domain.csproj|solutionrelative:domain\\repositories\\productrepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|solutionrelative:catalogapi.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\common\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\common\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F5274C-BB83-469F-ADB4-FE7A80CFBD9A}|CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.presentation\\catalogapi.presentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E4F5274C-BB83-469F-ADB4-FE7A80CFBD9A}|CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj|solutionrelative:catalogapi.presentation\\catalogapi.presentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA52E054-395C-47BE-A791-71122FF81948}|CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj|solutionrelative:catalogapi.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\commands\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\commands\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\commands\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\commands\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|c:\\users\\mindr\\source\\repos\\catalogapi\\catalogapi.application\\catalogapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6447258-1BCD-42A7-B7EE-0A63CFECDC21}|CatalogAPI.Application\\CatalogAPI.Application.csproj|solutionrelative:catalogapi.application\\catalogapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\Shared\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "Shared\\PaginatedResult.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\Shared\\PaginatedResult.cs",
+              "RelativeToolTip": "Shared\\PaginatedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:46:41.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\Shared\\Result.cs",
+              "RelativeDocumentMoniker": "Shared\\Result.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\Shared\\Result.cs",
+              "RelativeToolTip": "Shared\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:46:06.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Common\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Common\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Common\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Common\\Interfaces\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:43:50.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CatalogAPI.Presentation",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj",
+              "RelativeDocumentMoniker": "CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj",
+              "RelativeToolTip": "CatalogAPI.Presentation\\CatalogAPI.Presentation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T09:06:37.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "CatalogAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:03:08.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CatalogAPI.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:46:31.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepedencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\DepedencyInjection.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Infrastructure\\DepedencyInjection.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\DepedencyInjection.cs",
+              "RelativeToolTip": "CatalogAPI.Infrastructure\\DepedencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:34:16.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CatalogAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:34:10.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Infrastructure\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\Services\\FileService.cs",
+              "RelativeToolTip": "CatalogAPI.Infrastructure\\Services\\FileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:21:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatalogAPI.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj",
+              "RelativeToolTip": "CatalogAPI.Infrastructure\\CatalogAPI.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T08:20:34.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:58:38.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:57:54.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:55:48.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:54:25.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllProductsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Queries\\GetAllProductsHandler.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Queries\\GetAllProductsHandler.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Queries\\GetAllProductsHandler.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Queries\\GetAllProductsHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:50:53.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Queries\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Queries\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Queries\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Queries\\GetAllProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:50:14.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Queries\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Queries\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Queries\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Queries\\GetProductByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:49:03.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:37:49.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:33:22.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\Domain\\Repositories\\ProductRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\ProductRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\Domain\\Repositories\\ProductRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\ProductRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:27:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Presentation\\Program.cs",
+              "RelativeToolTip": "CatalogAPI.Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:24:08.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:23:03.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CatalogAPI.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\CatalogAPI.Application.csproj",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\CatalogAPI.Application.csproj",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\CatalogAPI.Application.csproj",
+              "RelativeToolTip": "CatalogAPI.Application\\CatalogAPI.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T07:22:17.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwCwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:16:19.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:15:08.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Queries\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "CatalogAPI.Application\\Products\\Queries\\GetProductByIdHandler.cs",
+              "ToolTip": "C:\\Users\\mindr\\source\\repos\\CatalogAPI\\CatalogAPI.Application\\Products\\Queries\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "CatalogAPI.Application\\Products\\Queries\\GetProductByIdHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBUAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:15:03.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

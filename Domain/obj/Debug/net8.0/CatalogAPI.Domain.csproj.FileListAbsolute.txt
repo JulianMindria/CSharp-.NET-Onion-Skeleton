@@ -1,0 +1,11 @@
+C:\Users\mindr\source\repos\CatalogAPI\Domain\bin\Debug\net8.0\CatalogAPI.Domain.deps.json
+C:\Users\mindr\source\repos\CatalogAPI\Domain\bin\Debug\net8.0\CatalogAPI.Domain.dll
+C:\Users\mindr\source\repos\CatalogAPI\Domain\bin\Debug\net8.0\CatalogAPI.Domain.pdb
+C:\Users\mindr\source\repos\CatalogAPI\Domain\obj\Debug\net8.0\CatalogAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindr\source\repos\CatalogAPI\Domain\obj\Debug\net8.0\CatalogAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\mindr\source\repos\CatalogAPI\Domain\obj\Debug\net8.0\CatalogAPI.Domain.AssemblyInfo.cs
+C:\Users\mindr\source\repos\CatalogAPI\Domain\obj\Debug\net8.0\CatalogAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mindr\source\repos\CatalogAPI\Domain\obj\Debug\net8.0\CatalogAPI.Domain.dll
+C:\Users\mindr\source\repos\CatalogAPI\Domain\obj\Debug\net8.0\refint\CatalogAPI.Domain.dll
+C:\Users\mindr\source\repos\CatalogAPI\Domain\obj\Debug\net8.0\CatalogAPI.Domain.pdb
+C:\Users\mindr\source\repos\CatalogAPI\Domain\obj\Debug\net8.0\ref\CatalogAPI.Domain.dll
